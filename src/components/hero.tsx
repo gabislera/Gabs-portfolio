@@ -20,7 +20,7 @@ export const Hero = () => {
           <div className='w-32 h-32 mx-auto mb-6 rounded-full border-2 border-zinc-600 overflow-hidden'>
             <div className='w-full h-full bg-zinc-700 flex items-center justify-center'>
               <img
-                src='/public/profile.jpeg'
+                src='/profile.jpeg'
                 alt='Gabriela Carniel'
                 className='w-full h-full object-cover object-top'
               />
