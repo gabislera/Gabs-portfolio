@@ -21,7 +21,7 @@ export const Hero = () => {
             <div className='w-full h-full bg-zinc-700 flex items-center justify-center'>
               <img
                 src='/profile.jpeg'
-                alt='Gabriela Carniel'
+                alt='Gabriela Carniel - Desenvolvedora Fullstack'
                 className='w-full h-full object-cover object-top'
               />
             </div>
